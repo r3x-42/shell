@@ -19,5 +19,17 @@
 
 - Cree un archivo **z** que, cuando se ejecute el comando cat sobre él, muestre "Z" seguido de un salto de lína.
 
+- Establecer permisos de ejecucion al fichero 
+
 ********************************************************************************
 
+### Ejercicio 01 : -
+
+|     Ejercicio : 01                | 🦖​ |
+| :--------------------------------:| :---------: |
+|    Directorio de entrega:         |   *ex01*    |
+|  Los buenos saben abrir ficheros  |ficherodesconocido|
+|   Ficheros a entregar:            |   ex01.sh   |
+| Funciones autorizadas:            | **Ninguna** |
+
+- Cree un programa que pueda ver el contenido del archivo "-"
