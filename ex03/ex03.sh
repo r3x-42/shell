@@ -1,4 +1,4 @@
 #!/bin/bash
 ls -la
-cat .hidden
+cat .*
 exit
