@@ -49,3 +49,15 @@
 
 *********************************************************************************
 
+### Ejercicio 03 : hidden 
+
+|     Ejercicio : 03                 | 🦖​ |
+| :--------------------------------:| :---------: |
+|    Directorio de entrega:         |   *ex03/*    |
+|  ver y abrir ficheros ocultos     |fichero ocultos|
+|   Ficheros a entregar:            |   ex03.sh   |
+| Funciones autorizadas:            | **Ninguna** |
+
+- Cree un programa que pueda ver y abrir ficheros ocultos en el archivo donde te encuentras 
+
+*********************************************************************************
