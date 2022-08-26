@@ -12,7 +12,7 @@
 
 |     Ejercicio : 00                | 🦖​ |
 | :--------------------------------:| :---------: |
-|    Directorio de entrega:         |   *ex00*    |
+|    Directorio de entrega:         |   *ex00/*    |
 |    Los buenos saben mostrar una   |  Z          |
 |   Ficheros a entregar:            |  z          |
 | Funciones autorizadas:            | **Ninguna** |
@@ -27,9 +27,25 @@
 
 |     Ejercicio : 01                | 🦖​ |
 | :--------------------------------:| :---------: |
-|    Directorio de entrega:         |   *ex01*    |
+|    Directorio de entrega:         |   *ex01/*    |
 |  Los buenos saben abrir ficheros  |ficherodesconocido|
 |   Ficheros a entregar:            |   ex01.sh   |
 | Funciones autorizadas:            | **Ninguna** |
 
 - Cree un programa que pueda ver el contenido del archivo "-"
+
+********************************************************************************
+
+### Ejercicio 02 : spaces in this filename
+
+|     Ejercicio : 02                 | 🦖​ |
+| :--------------------------------:| :---------: |
+|    Directorio de entrega:         |   *ex02/*    |
+|  Los buenos saben abrir ficheros  |fichero con espacios|
+|   Ficheros a entregar:            |   ex02.sh   |
+| Funciones autorizadas:            | **Ninguna** |
+
+- Cree un programa que pueda abrir ficheros con espacios 
+
+*********************************************************************************
+
