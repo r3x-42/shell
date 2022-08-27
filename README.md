@@ -61,3 +61,16 @@
 - Cree un programa que pueda ver y abrir ficheros ocultos en el archivo donde te encuentras 
 
 *********************************************************************************
+
+### Ejercicio 04 : archivos + 
+
+|     Ejercicio : 04                | 🦖​ |
+| :--------------------------------:| :---------: |
+|    Directorio de entrega:         |   *ex04/*   |
+|  creacion de multiples archivos   | archivos +  |
+|   Ficheros a entregar:            |   ex04.sh   |
+| Funciones autorizadas:            | **Ninguna** |
+
+- Cree un programa que pueda crear 9 archivos
+
+*********************************************************************************
